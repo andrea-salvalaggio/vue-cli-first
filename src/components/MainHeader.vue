@@ -14,4 +14,8 @@ export default {
 
 <style>
 
+h1  {
+    margin-bottom: 20px;
+    }
+
 </style>
